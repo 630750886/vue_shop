@@ -450,43 +450,6 @@ app.use(compression())
 
 
 
-### Project preview
-
-![welcome](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/welcome.png)
-
-
-![welcome](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/login.png)
-
-
-![user](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/user.png)
-
-
-
-![user1](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/user1.png)
-
-
-
-![role](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/role.png)
-
-
-
-![auth](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/auth.png)
-
-
-![goods](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/goods.png)
-
-
-![params](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/params.png)
-
-
-![addGoods](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/addGoods.png)
-
-
-![addGoods1](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/addGoods1.png)
-
-
-![data](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/data.png)
-
 ## 错误异常
 在使用Node.js14+版本可能出现错误
 
